@@ -12,6 +12,8 @@
 
 5. [Neural Style Transfer: A Comparative Study](https://ieeexplore.ieee.org/document/10724602)
 
+Journal
+
 6. UNet-VT: Integrating U-Net and Vision Transformers for Enhancing Brain Tumor Segmentation in MRI scans
 
 7. Ramaipur Reimagined: Unveiling Challenges and Empowering Community through Participatory Rural Appraisal and Human-Centered Resilience
