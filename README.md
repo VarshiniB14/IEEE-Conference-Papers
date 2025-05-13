@@ -14,6 +14,6 @@
 
 Journal
 
-6. UNet-VT: Integrating U-Net and Vision Transformers for Enhancing Brain Tumor Segmentation in MRI scans
+6. [UNet-VT: Integrating U-Net and Vision Transformers for Enhancing Brain Tumor Segmentation in MRI scans](https://www.sciencedirect.com/science/article/pii/S1877050925015741)
 
 7. Ramaipur Reimagined: Unveiling Challenges and Empowering Community through Participatory Rural Appraisal and Human-Centered Resilience
